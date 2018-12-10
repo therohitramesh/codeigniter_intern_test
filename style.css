@@ -1,0 +1,43 @@
+* {
+	border: solid red 1px;
+}
+
+table {
+	border: solid red 1px;
+}
+
+.main-col {
+	height: 600px;
+}
+
+.heading {
+	text-align: center;  
+}
+
+.drow-down {
+	height: 20px;
+}
+
+.sub-col {
+	height: 550px;
+}
+
+.prod {
+	height: 300px;
+}
+
+.prod-img {
+	size: 200px 200px;
+}
+
+
+.prod-name {
+	color: black;
+	font-size: 12;
+}
+
+.cost {
+	color: gray;
+	font-size: 10;
+}
+
